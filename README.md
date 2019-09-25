@@ -1,6 +1,6 @@
 # SpamCallc
-git clone https://github.com/nicoleus/SpamCallc
+git clone https://github.com/nicoleus/whatshackc.sh
 
-cd SpamCallc
+cd whatshackc.sh
 
-python SpamCallc.py
+sh  whatshackc.sh
