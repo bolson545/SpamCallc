@@ -1,5 +1,5 @@
 # SpamCallc
-git clone https://github.com/nicoleus/whatshackc.sh
+git clone https://github.com/bolson545/whatshackc.sh
 
 cd whatshackc.sh
 
